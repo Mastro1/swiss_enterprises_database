@@ -2,8 +2,9 @@
 __pycache__/
 *.pyc
 .DS_Store
-/data/
-/logs/
-/temp/
+*.csv
+*.log
+*.txt
+*.db
 /.venv/
 /tests/
