@@ -4,7 +4,6 @@ __pycache__/
 .DS_Store
 *.csv
 *.log
-*.txt
 *.db
 /.venv/
 /tests/
